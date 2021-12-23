@@ -1,0 +1,2 @@
+<?php
+/**** STRING DI ASRIPKAN ****/
