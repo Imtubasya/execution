@@ -1,2 +1,1 @@
-<?php
-/**** STRING DI ASRIPKAN ****/
+permission denied!
